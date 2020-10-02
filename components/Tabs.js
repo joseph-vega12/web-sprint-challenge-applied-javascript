@@ -26,7 +26,7 @@ function createTabs(obj) {
     return tab;
 }
 
-// console.log(createTabs());
+console.log(createTabs());
 // STEP 2: Create tabs
 // -----------------------
 // Using axios send a GET request to the address: https://lambda-times-api.herokuapp.com/topics
