@@ -25,7 +25,7 @@ function Header() {
     spn.textContent = "MARCH 28, 2020";
     title.textContent = "Lambda Times";
     spn2.textContent = "98°";
-    
+
     headerContainer.appendChild(container); 
     container.appendChild(spn);
     container.appendChild(title);
